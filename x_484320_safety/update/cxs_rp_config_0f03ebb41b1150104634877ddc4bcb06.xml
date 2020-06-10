@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Safety Issue Deflection">64c267b41b1150104634877ddc4bcbc0</cxs_context_config>
+        <limit>10</limit>
+        <name>Report a Safety Issue</name>
+        <results_header_text>Related Search Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Report a Safety Issue">2fa28ae01b9110104634877ddc4bcb3f</sc_cat_item>
+        <search_variable display_value="Short description">73a242241b9110104634877ddc4bcb06</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-07 10:56:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f03ebb41b1150104634877ddc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_484320_safety">35f19da01b1110104634877ddc4bcbfe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">35f19da01b1110104634877ddc4bcbfe</sys_scope>
+        <sys_update_name>cxs_rp_config_0f03ebb41b1150104634877ddc4bcb06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-07 10:56:24</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f03ebb41b1150104634877ddc4bcb06"/>
+</record_update>

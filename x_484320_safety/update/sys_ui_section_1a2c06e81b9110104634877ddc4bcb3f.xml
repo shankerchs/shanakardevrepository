@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1a2c06e81b9110104634877ddc4bcb3f" sys_domain="global" table="x_484320_safety_issue" version="3" view="saftetyIssuenew">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>162c06e81b9110104634877ddc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>9a2c06e81b9110104634877ddc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>1e2c06e81b9110104634877ddc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>9e2c06e81b9110104634877ddc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>122c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>922c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>162c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>962c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>1a2c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>9a2c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_id>1e2c06e81b9110104634877ddc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484320_safety_issue" sys_domain="global" view="5a2c06e81b9110104634877ddc4bcb3b">1a2c06e81b9110104634877ddc4bcb3f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_484320_safety_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a2c06e81b9110104634877ddc4bcb3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_484320_safety_issue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_484320_safety">35f19da01b1110104634877ddc4bcbfe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">35f19da01b1110104634877ddc4bcbfe</sys_scope>
+            <sys_update_name>sys_ui_section_1a2c06e81b9110104634877ddc4bcb3f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="saftetyIssuenew" name="saftetyIssuenew">5a2c06e81b9110104634877ddc4bcb3b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

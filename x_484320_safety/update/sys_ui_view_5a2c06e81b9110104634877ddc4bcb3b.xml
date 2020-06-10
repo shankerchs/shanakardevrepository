@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>saftetyIssuenew</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-06 09:57:26</sys_created_on>
+        <sys_id>5a2c06e81b9110104634877ddc4bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>saftetyIssuenew</sys_name>
+        <sys_package display_value="Safety" source="x_484320_safety">35f19da01b1110104634877ddc4bcbfe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">35f19da01b1110104634877ddc4bcbfe</sys_scope>
+        <sys_update_name>sys_ui_view_5a2c06e81b9110104634877ddc4bcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-06 09:57:26</sys_updated_on>
+        <title>saftetyIssuenew</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
